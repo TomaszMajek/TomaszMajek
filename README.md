@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TomaszMajek
-- 👀 I’m interested in music production and video games.
+- 👀 I’m interested in music production.
 - 🌱 I’m currently learning .NET platform and algorithms.
 
 <!---
